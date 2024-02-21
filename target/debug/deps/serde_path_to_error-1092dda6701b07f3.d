@@ -1,0 +1,9 @@
+/Users/bogdanvoicu/Desktop/everything/target/debug/deps/libserde_path_to_error-1092dda6701b07f3.rmeta: /Users/bogdanvoicu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.15/src/lib.rs /Users/bogdanvoicu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.15/src/de.rs /Users/bogdanvoicu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.15/src/path.rs /Users/bogdanvoicu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.15/src/ser.rs /Users/bogdanvoicu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.15/src/wrap.rs
+
+/Users/bogdanvoicu/Desktop/everything/target/debug/deps/serde_path_to_error-1092dda6701b07f3.d: /Users/bogdanvoicu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.15/src/lib.rs /Users/bogdanvoicu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.15/src/de.rs /Users/bogdanvoicu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.15/src/path.rs /Users/bogdanvoicu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.15/src/ser.rs /Users/bogdanvoicu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.15/src/wrap.rs
+
+/Users/bogdanvoicu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.15/src/lib.rs:
+/Users/bogdanvoicu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.15/src/de.rs:
+/Users/bogdanvoicu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.15/src/path.rs:
+/Users/bogdanvoicu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.15/src/ser.rs:
+/Users/bogdanvoicu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.15/src/wrap.rs:
